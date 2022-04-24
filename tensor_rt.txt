@@ -1,0 +1,7 @@
+https://www.dlology.com/blog/how-to-run-tensorflow-object-detection-model-on-jetson-nano/
+
+https://colab.research.google.com/github/Tony607/tf_jetson_nano/blob/master/Step1_Object_detection_Colab_TensorRT.ipynb#scrollTo=_Hg6qDGIwmQn
+
+https://github.com/NVIDIA/TensorRT
+
+https://github.com/jkjung-avt/tensorrt_demos#yolov4

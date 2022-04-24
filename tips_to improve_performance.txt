@@ -1,0 +1,1 @@
+http://docs.ultralytics.com/tutorials/training-tips-best-results/
