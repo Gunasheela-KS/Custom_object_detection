@@ -1,6 +1,6 @@
 # Custom_object_detection
 
-The code in this repository implements custom object detection using yolo v5.
+The code in this repository implements custom object detection on image/videos using yolo v5.
 
 Experiment:
 250 epochs completed in 1.019 hours.
